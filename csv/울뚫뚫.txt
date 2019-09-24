@@ -1,0 +1,12 @@
+[
+  {
+    "name": "울뚫뚫#31613",
+    "urlName": "울뚫뚫-31613",
+    "id": 34861900,
+    "level": 105,
+    "playerLevel": 105,
+    "isPublic": true,
+    "platform": "pc",
+    "portrait": "0x0250000000002AA3"
+  }
+]

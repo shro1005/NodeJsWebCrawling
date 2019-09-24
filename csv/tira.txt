@@ -1,0 +1,412 @@
+[
+  {
+    "name": "TiRa#11504",
+    "urlName": "TiRa-11504",
+    "id": 337145346,
+    "level": 608,
+    "playerLevel": 608,
+    "isPublic": true,
+    "platform": "pc",
+    "portrait": "0x02500000000002F9"
+  },
+  {
+    "name": "Tira#21631",
+    "urlName": "Tira-21631",
+    "id": 402913622,
+    "level": 124,
+    "playerLevel": 124,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000307"
+  },
+  {
+    "name": "Tira#1693",
+    "urlName": "Tira-1693",
+    "id": 2251933,
+    "level": 177,
+    "playerLevel": 177,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000009E4"
+  },
+  {
+    "name": "tira#31617",
+    "urlName": "tira-31617",
+    "id": 41298887,
+    "level": 169,
+    "playerLevel": 169,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000657"
+  },
+  {
+    "name": "tira#21633",
+    "urlName": "tira-21633",
+    "id": 456621589,
+    "level": 413,
+    "playerLevel": 413,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000001A7C"
+  },
+  {
+    "name": "tira#21119",
+    "urlName": "tira-21119",
+    "id": 461182660,
+    "level": 154,
+    "playerLevel": 154,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000001647"
+  },
+  {
+    "name": "TirA#31875",
+    "urlName": "TirA-31875",
+    "id": 702381303,
+    "level": 824,
+    "playerLevel": 824,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  },
+  {
+    "name": "Tira#31103",
+    "urlName": "Tira-31103",
+    "id": 42825343,
+    "level": 154,
+    "playerLevel": 154,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000001A86"
+  },
+  {
+    "name": "Tira#31232",
+    "urlName": "Tira-31232",
+    "id": 711631362,
+    "level": 10,
+    "playerLevel": 10,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000001AC8"
+  },
+  {
+    "name": "TIRA#21761",
+    "urlName": "TIRA-21761",
+    "id": 453827145,
+    "level": 28,
+    "playerLevel": 28,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x025000000000113E"
+  },
+  {
+    "name": "Tira#11500",
+    "urlName": "Tira-11500",
+    "id": 347302958,
+    "level": 303,
+    "playerLevel": 303,
+    "isPublic": true,
+    "platform": "pc",
+    "portrait": "0x0250000000001643"
+  },
+  {
+    "name": "Tira",
+    "urlName": "Tira",
+    "id": 344698393,
+    "level": 55,
+    "playerLevel": 55,
+    "isPublic": false,
+    "platform": "xbl",
+    "portrait": "0x0250000000002901"
+  },
+  {
+    "name": "tira#11502",
+    "urlName": "tira-11502",
+    "id": 309849890,
+    "level": 602,
+    "playerLevel": 602,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000F01"
+  },
+  {
+    "name": "Tira#21501",
+    "urlName": "Tira-21501",
+    "id": 102099034,
+    "level": 85,
+    "playerLevel": 85,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000022D0"
+  },
+  {
+    "name": "TiRa#11114",
+    "urlName": "TiRa-11114",
+    "id": 94323809,
+    "level": 617,
+    "playerLevel": 617,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000002486"
+  },
+  {
+    "name": "Tira#2564",
+    "urlName": "Tira-2564",
+    "id": 414935444,
+    "level": 217,
+    "playerLevel": 217,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000017A9"
+  },
+  {
+    "name": "Tira#2433",
+    "urlName": "Tira-2433",
+    "id": 106558889,
+    "level": 7,
+    "playerLevel": 7,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000002770"
+  },
+  {
+    "name": "Tira#3206",
+    "urlName": "Tira-3206",
+    "id": 12900286,
+    "level": 362,
+    "playerLevel": 362,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000A92"
+  },
+  {
+    "name": "Tira#1824",
+    "urlName": "Tira-1824",
+    "id": 310368084,
+    "level": 58,
+    "playerLevel": 58,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x025000000000064F"
+  },
+  {
+    "name": "Tira#21635",
+    "urlName": "Tira-21635",
+    "id": 472451718,
+    "level": 31,
+    "playerLevel": 31,
+    "isPublic": true,
+    "platform": "pc",
+    "portrait": "0x0250000000001401"
+  },
+  {
+    "name": "TIRA#31489",
+    "urlName": "TIRA-31489",
+    "id": 40986540,
+    "level": 610,
+    "playerLevel": 610,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000022D1"
+  },
+  {
+    "name": "Tira#31874",
+    "urlName": "Tira-31874",
+    "id": 40129904,
+    "level": 124,
+    "playerLevel": 124,
+    "isPublic": true,
+    "platform": "pc",
+    "portrait": "0x0250000000001407"
+  },
+  {
+    "name": "Tira#11887",
+    "urlName": "Tira-11887",
+    "id": 349933563,
+    "level": 821,
+    "playerLevel": 821,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000009E2"
+  },
+  {
+    "name": "Tira#11886",
+    "urlName": "Tira-11886",
+    "id": 358577796,
+    "level": 425,
+    "playerLevel": 425,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000AE6"
+  },
+  {
+    "name": "Tira#2300",
+    "urlName": "Tira-2300",
+    "id": 130149762,
+    "level": 140,
+    "playerLevel": 140,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000C22"
+  },
+  {
+    "name": "TiRa#3208",
+    "urlName": "TiRa-3208",
+    "id": 12802541,
+    "level": 101,
+    "playerLevel": 101,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000304"
+  },
+  {
+    "name": "Tira#2687",
+    "urlName": "Tira-2687",
+    "id": 101049678,
+    "level": 93,
+    "playerLevel": 93,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000776"
+  },
+  {
+    "name": "Tira#21632",
+    "urlName": "Tira-21632",
+    "id": 451906060,
+    "level": 46,
+    "playerLevel": 46,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000B38"
+  },
+  {
+    "name": "Tira#31360",
+    "urlName": "Tira-31360",
+    "id": 18494740,
+    "level": 30,
+    "playerLevel": 30,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000CED"
+  },
+  {
+    "name": "tira#2171",
+    "urlName": "tira-2171",
+    "id": 105494231,
+    "level": 28,
+    "playerLevel": 28,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  },
+  {
+    "name": "Tira#3720",
+    "urlName": "Tira-3720",
+    "id": 1504686,
+    "level": 24,
+    "playerLevel": 24,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000BAD"
+  },
+  {
+    "name": "Tira#21630",
+    "urlName": "Tira-21630",
+    "id": 446824864,
+    "level": 22,
+    "playerLevel": 22,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000008BE"
+  },
+  {
+    "name": "Tira#2692",
+    "urlName": "Tira-2692",
+    "id": 102244576,
+    "level": 19,
+    "playerLevel": 19,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000F01"
+  },
+  {
+    "name": "Tira#2688",
+    "urlName": "Tira-2688",
+    "id": 103081363,
+    "level": 16,
+    "playerLevel": 16,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000B14"
+  },
+  {
+    "name": "tira#31746",
+    "urlName": "tira-31746",
+    "id": 701152721,
+    "level": 12,
+    "playerLevel": 12,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  },
+  {
+    "name": "Tira#11115",
+    "urlName": "Tira-11115",
+    "id": 365881049,
+    "level": 11,
+    "playerLevel": 11,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x0250000000000B14"
+  },
+  {
+    "name": "TIRA#21506",
+    "urlName": "TIRA-21506",
+    "id": 469697461,
+    "level": 8,
+    "playerLevel": 8,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  },
+  {
+    "name": "Tira#21247",
+    "urlName": "Tira-21247",
+    "id": 454140745,
+    "level": 3,
+    "playerLevel": 3,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  },
+  {
+    "name": "Tira#21504",
+    "urlName": "Tira-21504",
+    "id": 453887387,
+    "level": 1,
+    "playerLevel": 1,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x025000000000113E"
+  },
+  {
+    "name": "Tira#21373",
+    "urlName": "Tira-21373",
+    "id": 447087903,
+    "level": 1,
+    "playerLevel": 1,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  },
+  {
+    "name": "Tira#11630",
+    "urlName": "Tira-11630",
+    "id": 328393174,
+    "level": 1,
+    "playerLevel": 1,
+    "isPublic": false,
+    "platform": "pc",
+    "portrait": "0x02500000000002F7"
+  }
+]
