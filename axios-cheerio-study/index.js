@@ -3,7 +3,7 @@ const cheerio = require('cheerio'); // html 파싱 라이브러리
 const parse = require('csv-parse/lib/sync')  // csv parser 
 const fs = require('fs');
 
-const csv = fs.readFileSync('axois-cheerio-study/csv/data.csv');
+const csv = fs.readFileSync('axios-cheerio-study/csv/data.csv');
 // const file = fs.writeFile('csv/file.txt');
 const records = parse(csv.toString('utf-8'));
 records.forEach((r, i) => {
