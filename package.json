@@ -2,9 +2,9 @@
   "name": "study1",
   "version": "1.0.0",
   "description": "nodejs_web_crawling_study1",
-  "main": "/puppeteer-study/puppeteer.js",
+  "main": "/crawling_infinite_scroll_website/crawling_infinite_scroll_website.js",
   "scripts": {
-    "start": "node puppeteer-study/puppeteer"
+    "start": "node crawling_infinite_scroll_website/crawling_infinite_scroll_website.js"
   },
   "author": "kyun",
   "license": "MIT",
