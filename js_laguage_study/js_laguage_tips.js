@@ -23,7 +23,7 @@ const e = `${x} ${y} ${z}`;
 console.log(e);
 // x + " " + y + " " + z 와 동일함
 
-/** 콜백 함수, Promise */
+/** 콜백 함수, Promise : 결과 값은 가지고 있지만 .then() 이나 .catch() 를 사용하지 않으면 결과값을 반환하지 않는다. */
 // 기존 콜백 함수
 User.findOne('kyun', (err, user) => {
     if(err) {
@@ -38,7 +38,7 @@ console.log("finish");      /** 콜백 함수는 기본적으로 비동기 이�
 const User = {
     findOne() {
         return new Promise((res, rej) => {
-            if('조 성공') {
+            if('조회 성공') {
                 res('사용자');
             }else {
                 rej('실패');
@@ -54,3 +54,8 @@ User.findOne('kyun')
     .catch((err) => {
         console.error(err);
     })
+
+// Promise.all
+Promise.all( promise1, promise2, promise3)
+    .then( (result) => {console.log("전부 성공")})
+    .catch( (error) => {console.log("하나라도 실패")});  // 여러 프로미스를 동시에 실행 가능, 하나라도 실패하면 catch() 로 이동
