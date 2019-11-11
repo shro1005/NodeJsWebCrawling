@@ -2,9 +2,9 @@
   "name": "study1",
   "version": "1.0.0",
   "description": "nodejs_web_crawling_study1",
-  "main": "/crawling_infinite_scroll_website/crawling_infinite_scroll_website.js",
+  "main": "/facebook_crawling/facebook_login_logout.js",
   "scripts": {
-    "start": "node crawling_infinite_scroll_website/crawling_infinite_scroll_website.js"
+    "start": "node facebook_crawling/facebook_login_logout.js"
   },
   "author": "kyun",
   "license": "MIT",
@@ -13,6 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "csv-parse": "^4.6.5",
     "csv-stringify": "^5.3.3",
+    "dotenv": "^8.2.0",
     "puppeteer": "^2.0.0"
   }
 }
