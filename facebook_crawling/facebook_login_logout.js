@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const dotenv = require('dotenv');
-dotenv.config({path:'facebook_crawling/.env'});
+dotenv.config({path:'.env'});
 
 const interaction_with_facebook = async () => {
     try {
@@ -111,7 +111,7 @@ const interaction_with_facebook = async () => {
         // await page.click('#userNavigationLabel');
         await page.evaluate(() => {
             document.querySelector('#userNavigationLabel').click();
-        })
+        });
         await page.waitForSelector('li.navSubmenu:last-child');
         await page.waitFor(500);
         await page.click('li.navSubmenu:last-child');

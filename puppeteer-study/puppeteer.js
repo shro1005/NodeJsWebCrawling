@@ -5,21 +5,21 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-fs.readdir('puppeteer-study/poster', (err) => {
+fs.readdir('poster', (err) => {
   if(err) {
     console.error("poster 폴더가 존재하지 않아 poster 폴더를 먼저 생성합니다.");
-    fs.mkdirSync('puppeteer-study/poster');
+    fs.mkdirSync('poster');
   }
 });
-fs.readdir('puppeteer-study/screenshot', (err) => {
+fs.readdir('screenshot', (err) => {
   if(err) {
     console.error("screenshot 폴더가 존재하지 않아 screenshot 폴더를 먼저 생성합니다.");
-    fs.mkdirSync('puppeteer-study/screenshot');
+    fs.mkdirSync('screenshot');
   }
 });
 
 
-const csv = fs.readFileSync('puppeteer-study/csv_puppeteer/data.csv');
+const csv = fs.readFileSync('csv_puppeteer/data.csv');
 const records = parse(csv.toString('utf-8'));
 
 const puppeteer_crawler = async () => {
@@ -66,10 +66,10 @@ const puppeteer_crawler = async () => {
           const imgResult = await axios.get(raw.poster /**.replace(/\?.*$/, '')*/, {  // axios를 이용해 이미지 주소의 데이터를 저장
             responseType: 'arraybuffer',
           });
-          fs.writeFileSync('puppeteer-study/poster/'+r[0]+'.jpg', imgResult.data);    // 저장한 이미지 데이터를 원하는 파일에 쓰는 것을 통해 이미지 자체를 우리 폴더로 옮길수 있다.
+          fs.writeFileSync('poster/'+r[0]+'.jpg', imgResult.data);    // 저장한 이미지 데이터를 원하는 파일에 쓰는 것을 통해 이미지 자체를 우리 폴더로 옮길수 있다.
           /** 스크린샷 저장*/
           await page.screenshot({
-            path: 'puppeteer-study/screenshot/'+r[0]+'_스크린샷.png',
+            path: 'screenshot/'+r[0]+'_스크린샷.png',
             // fullPage : true,   // full page 스크린샷
             clip: {               // 일부 영역만 스크린샷
               x: 220,
@@ -95,7 +95,7 @@ const puppeteer_crawler = async () => {
     }));
     await browser.close();
     const str = stringify(result);
-    fs.writeFileSync('puppeteer-study/csv_puppeteer/result2.csv', str);
+    fs.writeFileSync('csv_puppeteer/result2.csv', str);
   }catch (e) {
     console.log(e);
   }

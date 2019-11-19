@@ -1,0 +1,12 @@
+{
+  "name": "crawling_infinite_scroll_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawling_infinite_scroll_website.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node crawling_infinite_scroll_website.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
